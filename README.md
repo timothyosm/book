@@ -5,4 +5,3 @@
 * Node.js
 * React
 * MongoDB
-* Heroku
